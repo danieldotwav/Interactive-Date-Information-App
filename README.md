@@ -10,10 +10,10 @@ This C++ program allows users to input a date in the format MM/DD/YYYY and provi
 - User Interaction: The program allows users to run it multiple times to input different birthdates.
 
 ## **How to Use**
-### 1. **Run the program**
+1. **Run the program**
 
-### 2. **Enter the birthdate in MM/DD/YYYY format**
+2. **Enter the birthdate in MM/DD/YYYY format**
 
-### 3. **View the information, including month name, zodiac sign, horoscope, and Chinese zodiac.**
+3. **View the information, including month name, zodiac sign, horoscope, and Chinese zodiac.**
   
-### 4. **Choose to run the program again or exit.**
+4. **Choose to run the program again or exit.**
